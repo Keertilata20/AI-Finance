@@ -1,4 +1,4 @@
-# 💰 AI Finance Agent
+# 💰 AI Finanace
 
 An intelligent finance assistant built using Flask and Mistral AI that helps users analyze financial data, track expenses, and receive personalized financial insights.
 
